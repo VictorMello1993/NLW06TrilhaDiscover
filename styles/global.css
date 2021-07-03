@@ -18,6 +18,7 @@
   --grey-dark: #4D5E77;
   --grey-blue: #A1B2CD;
   --grey-light: #E5EAF1;
+  --grey-medium: #eaecf2;
 
   /* 1rem = 16px = 100% (tamanho padrão do browser)*/  
 
@@ -80,7 +81,7 @@ button:hover, .button:hover{
   filter: brightness(1.2)
 }
 
-button > img
+button > img,
 .button > img{
   margin-right: 1rem;
   width: 2rem;
@@ -93,6 +94,19 @@ button.outlined,
   border: 0.2rem solid var(--blue);
 }
 
+/* RED BUTTON MODAL */
+button.red, .button.red{
+  background: var(--red);
+  color: var(--white);  
+}
+
+/* GREY BUTTON MODAL */
+button.grey, .button.grey{
+  background: var(--grey-light);
+  color: var(--grey-dark);
+}
+
+/* HEADER */
 .content header{
   width: 80%;
   margin: 3.5rem auto;
