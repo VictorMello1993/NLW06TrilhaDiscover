@@ -13,14 +13,43 @@
    <a href="https://github.com/VictorMello1993/NLW06TrilhaDiscover/stargazers"></a>
 </p>
 
-
 <p align="center">
+  <a href="#clapper-demonstracao">Demonstração</a> •
   <a href="#earth_americas-visão-geral">Visão geral</a> •
   <a href="#wrench-recursos">Recursos</a> •
   <a href="#triangular_flag_on_postcomeçando">Começando</a> •
   <a href="#oil_drumbanco-de-dados">Banco de dados</a> •
+  <a href=""
   <a href="#possíveis-melhorias">Possíveis melhorias</a>
 </p>
+
+
+<h2>:clapper: Demonstração</h2>
+
+<h3>Criando uma sala</h3>
+![gif1](https://user-images.githubusercontent.com/35710766/125180314-ecf62900-e1ce-11eb-8341-c43896b62088.gif)
+
+</br>
+
+<h3>Fazendo perguntas</h3>
+![gif2](https://user-images.githubusercontent.com/35710766/125180322-08613400-e1cf-11eb-9ee0-dd3083ad1eec.gif)
+
+</br>
+
+<h3>Marcando pergunta como lida</h3>
+![gif3](https://user-images.githubusercontent.com/35710766/125180332-20d14e80-e1cf-11eb-86ee-1b63a0861f2b.gif)
+
+</br>
+
+<h3>Excluindo uma pergunta</h3>
+![gif4](https://user-images.githubusercontent.com/35710766/125180339-36df0f00-e1cf-11eb-9839-bfe9fee1e091.gif)
+
+</br>
+
+<h3>Entrando numa sala a partir de um código existente</h3>
+![gif5](https://user-images.githubusercontent.com/35710766/125180351-5ece7280-e1cf-11eb-9214-8f2c6fff06ad.gif)
+
+<br/>
 
 ---
 
