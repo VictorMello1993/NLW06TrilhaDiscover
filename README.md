@@ -27,7 +27,7 @@
 <h2>:clapper: Demonstração</h2>
 
 <h3>Criando uma sala</h3>
-![gif1](https://user-images.githubusercontent.com/35710766/125180314-ecf62900-e1ce-11eb-8341-c43896b62088.gif)
+![gif1](https://user-images.githubusercontent.com/35710766/125180370-b40a8400-e1cf-11eb-8ba1-e0c4378ffd15.gif)
 
 </br>
 
