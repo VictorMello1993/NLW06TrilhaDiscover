@@ -57,6 +57,12 @@
 
 <br/>
 
+<h3>Copiando o código da sala</h3>
+
+![ezgif com-gif-maker (12)](https://user-images.githubusercontent.com/35710766/126081508-399a8a89-ffc6-4d1c-88ed-eaf103dc3dd1.gif)
+
+<br/>
+
 ---
 
 <h2>:earth_americas: Visão geral</h2>
