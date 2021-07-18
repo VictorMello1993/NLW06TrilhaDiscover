@@ -136,6 +136,7 @@ Pronto, a conexão já está aberta, e poderá realizar as consultas
 - [ ] Validar os campos de criar sala ou entrar sala
 - [ ] Melhorar a notificação de senha inválida ou senha obrigatória
 - [ ] Trocar SQLite por outro banco de dados à escolha (MySQL, MongoDB, Postgres, etc...)
+- [ ] Resolver possíveis bugs encontrados
 
 ---
 ## Versões do README
